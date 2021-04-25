@@ -1,5 +1,5 @@
 # packages in addition to repo2docker/buildpacks/conda/environment.yml
-name: isce2
+name: baseenv
 channels:
   - conda-forge
 dependencies:
