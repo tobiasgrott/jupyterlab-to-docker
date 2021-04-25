@@ -1,7 +1,7 @@
 # repo2docker-githubci
 a template for building [JupyterHub](https://jupyter.org/hub) environments with [Repo2Docker](https://repo2docker.readthedocs.io/en/latest/) and [GitHub Actions CI](https://help.github.com/en/actions/automating-your-workflow-with-github-actions) 
 
-![Action Status](https://github.com/tobiasgrott/jupyterlab-to-docker/workflows/Repo2Docker/badge.svg)
+![Action Status](https://github.com/tobiasgrott/jupyterlab-to-docker/workflows/Build Notebook Container/badge.svg)
 ![Docker Pulls](https://img.shields.io/docker/pulls/tobiasgrott/jupyterlab-to-docker)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tobiasgrott/jupyterlab-to-docker/master?urlpath=lab)
 
