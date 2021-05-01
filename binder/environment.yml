@@ -14,4 +14,3 @@ dependencies:
   - bokeh=1.4
   - python-graphviz=0.13
   - pip=19.3
-  - ray
