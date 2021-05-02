@@ -7,6 +7,6 @@ distributed
 dask-labextension
 tornado
 bokeh
-python-graphviz
+pygraphviz
 pip
 ray
