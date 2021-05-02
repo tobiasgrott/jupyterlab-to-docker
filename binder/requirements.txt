@@ -1,12 +1,1 @@
-jupyterlab
-jupyterhub
-jupyter-server-proxy
-nbgitpuller
-dask
-distributed
-dask-labextension
-tornado
-bokeh
-pygraphviz
-pip
 ray
